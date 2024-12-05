@@ -27,3 +27,4 @@ Al finalizar, añade tus entregables a git. Luego haz commit y push de tu rama a
 - [Por qué, cómo y cuándo escalar tus características](https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e)
 - [sklearn.preprocessing.RobustScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html)
 - [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics)
+    
